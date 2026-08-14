@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "runeTiers": [
+    { "runes": 50, "gemCost": 1000 },
+    { "runes": 100, "gemCost": 1800 },
+    { "runes": 250, "gemCost": 4000 }
+  ],
+  "bundles": [
+    {
+      "id": "sigil-of-the-sapling",
+      "nameKey": "shop.bundles.sigilOfTheSapling.name",
+      "descriptionKey": "shop.bundles.sigilOfTheSapling.description",
+      "gemCost": 1000,
+      "rewards": [
+        { "type": "hint", "qty": 8 },
+        { "type": "hammer", "qty": 5 },
+        { "type": "seer", "qty": 3 },
+        { "type": "rune", "qty": 15 }
+      ]
+    },
+    {
+      "id": "druids-satchel",
+      "nameKey": "shop.bundles.druidsSatchel.name",
+      "descriptionKey": "shop.bundles.druidsSatchel.description",
+      "gemCost": 3000,
+      "rewards": [
+        { "type": "hint", "qty": 25 },
+        { "type": "hammer", "qty": 15 },
+        { "type": "seer", "qty": 10 },
+        { "type": "rune", "qty": 50 }
+      ]
+    },
+    {
+      "id": "treasury-of-the-henge",
+      "nameKey": "shop.bundles.treasuryOfTheHenge.name",
+      "descriptionKey": "shop.bundles.treasuryOfTheHenge.description",
+      "gemCost": 10000,
+      "rewards": [
+        { "type": "hint", "qty": 100 },
+        { "type": "hammer", "qty": 50 },
+        { "type": "seer", "qty": 25 },
+        { "type": "rune", "qty": 250 }
+      ]
+    }
+  ],
+  "powers": [
+    {
+      "id": "glimpses-15",
+      "nameKey": "shop.bundles.glimpsesCache.name",
+      "descriptionKey": "shop.bundles.glimpsesCache.description",
+      "gemCost": 1000,
+      "rewards": [{ "type": "hint", "qty": 15 }]
+    },
+    {
+      "id": "hammer-10",
+      "nameKey": "shop.bundles.hammerStash.name",
+      "descriptionKey": "shop.bundles.hammerStash.description",
+      "gemCost": 1150,
+      "rewards": [{ "type": "hammer", "qty": 10 }]
+    },
+    {
+      "id": "combo-small",
+      "nameKey": "shop.bundles.emberCinders.name",
+      "descriptionKey": "shop.bundles.emberCinders.description",
+      "gemCost": 1000,
+      "rewards": [
+        { "type": "hint", "qty": 5 },
+        { "type": "hammer", "qty": 3 },
+        { "type": "seer", "qty": 2 }
+      ]
+    },
+    {
+      "id": "combo-large",
+      "nameKey": "shop.bundles.blazingCoals.name",
+      "descriptionKey": "shop.bundles.blazingCoals.description",
+      "gemCost": 2400,
+      "rewards": [
+        { "type": "hint", "qty": 12 },
+        { "type": "hammer", "qty": 12 },
+        { "type": "seer", "qty": 5 }
+      ]
+    }
+  ]
+}
