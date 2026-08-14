@@ -1,0 +1,322 @@
+[
+  {
+    "id": "wolf",
+    "assetKey": "wolf",
+    "labelKey": "creatures.animals.wolf",
+    "cost": 1500,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/wolf.png"
+  },
+  {
+    "id": "badger",
+    "assetKey": "badger",
+    "labelKey": "creatures.animals.badger",
+    "cost": 1500,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/badger.png"
+  },
+  {
+    "id": "corbie",
+    "assetKey": "corbie",
+    "labelKey": "creatures.animals.corbie",
+    "cost": 1500,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/corbie.png"
+  },
+  {
+    "id": "raven",
+    "assetKey": "raven",
+    "labelKey": "creatures.animals.raven",
+    "cost": 1500,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/raven.png"
+  },
+  {
+    "id": "ram",
+    "assetKey": "ram",
+    "labelKey": "creatures.animals.ram",
+    "cost": 2250,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/ram.png"
+  },
+  {
+    "id": "crane",
+    "assetKey": "crane",
+    "labelKey": "creatures.animals.crane",
+    "cost": 2250,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/crane.png"
+  },
+  {
+    "id": "hawk",
+    "assetKey": "hawk",
+    "labelKey": "creatures.animals.hawk",
+    "cost": 2250,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/hawk.png"
+  },
+  {
+    "id": "lynx",
+    "assetKey": "lynx",
+    "labelKey": "creatures.animals.lynx",
+    "cost": 2250,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/lynx.png"
+  },
+  {
+    "id": "boar",
+    "assetKey": "boar",
+    "labelKey": "creatures.animals.boar",
+    "cost": 2250,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/boar.png"
+  },
+  {
+    "id": "hare",
+    "assetKey": "hare",
+    "labelKey": "creatures.animals.hare",
+    "cost": 2250,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/hare.png"
+  },
+  {
+    "id": "serpent",
+    "assetKey": "serpent",
+    "labelKey": "creatures.animals.serpent",
+    "cost": 2250,
+    "category": "common",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/serpent.png"
+  },
+  {
+    "id": "banshee",
+    "assetKey": "banshee",
+    "labelKey": "creatures.animals.banshee",
+    "cost": 2250,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/banshee.png"
+  },
+  {
+    "id": "púca",
+    "assetKey": "puca",
+    "labelKey": "creatures.animals.puca",
+    "cost": 2250,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/puca.png"
+  },
+  {
+    "id": "bear",
+    "assetKey": "bear",
+    "labelKey": "creatures.animals.bear",
+    "cost": 3000,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/bear.png"
+  },
+  {
+    "id": "catSith",
+    "assetKey": "cat-sith",
+    "labelKey": "creatures.animals.catSith",
+    "cost": 3000,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/cat-sith.png"
+  },
+  {
+    "id": "kelpie",
+    "assetKey": "kelpie",
+    "labelKey": "creatures.animals.kelpie",
+    "cost": 3000,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/kelpie.png"
+  },
+  {
+    "id": "selkie",
+    "assetKey": "selkie",
+    "labelKey": "creatures.animals.selkie",
+    "cost": 3000,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/selkie.png"
+  },
+  {
+    "id": "leshy",
+    "assetKey": "leshy",
+    "labelKey": "creatures.animals.leshy",
+    "cost": 3000,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/leshy.png"
+  },
+  {
+    "id": "cairnGuardian",
+    "assetKey": "cairn-guardian",
+    "labelKey": "creatures.animals.cairnGuardian",
+    "cost": 3000,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/cairn-guardian.png"
+  },
+  {
+    "id": "wollert",
+    "assetKey": "wollert",
+    "labelKey": "creatures.animals.wollert",
+    "cost": 3000,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/wollert.png"
+  },
+  {
+    "id": "sarith",
+    "assetKey": "sarith",
+    "labelKey": "creatures.animals.sarith",
+    "cost": 3000,
+    "category": "uncommon",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/sarith.png"
+  },
+  {
+    "id": "griffin",
+    "assetKey": "griffin",
+    "labelKey": "creatures.animals.griffin",
+    "cost": 3750,
+    "category": "rare",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/griffin.png"
+  },
+  {
+    "id": "owlbear",
+    "assetKey": "owlbear",
+    "labelKey": "creatures.animals.owlbear",
+    "cost": 3750,
+    "category": "rare",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/owlbear.png"
+  },
+  {
+    "id": "manticore",
+    "assetKey": "manticore",
+    "labelKey": "creatures.animals.manticore",
+    "cost": 3750,
+    "category": "rare",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/manticore.png"
+  },
+  {
+    "id": "megaloceros",
+    "assetKey": "megaloceros",
+    "labelKey": "creatures.animals.megaloceros",
+    "cost": 3750,
+    "category": "rare",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/megaloceros.png"
+  },
+  {
+    "id": "aurochs",
+    "assetKey": "aurochs",
+    "labelKey": "creatures.animals.aurochs",
+    "cost": 3750,
+    "category": "rare",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/aurochs.png"
+  },
+  {
+    "id": "phoenix",
+    "assetKey": "phoenix",
+    "labelKey": "creatures.animals.phoenix",
+    "cost": 4500,
+    "category": "rare",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/phoenix.png"
+  },
+  {
+    "id": "dragon",
+    "assetKey": "dragon",
+    "labelKey": "creatures.animals.dragon",
+    "cost": 4500,
+    "category": "rare",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/dragon.png"
+  },
+  {
+    "id": "leaf",
+    "assetKey": "leaf",
+    "labelKey": "creatures.objects.leaf",
+    "cost": 1500,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/leaf.png"
+  },
+  {
+    "id": "mushroom",
+    "assetKey": "mushroom",
+    "labelKey": "creatures.objects.mushroom",
+    "cost": 1500,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/mushroom.png"
+  },
+  {
+    "id": "cauldron",
+    "assetKey": "cauldron",
+    "labelKey": "creatures.objects.cauldron",
+    "cost": 2250,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/cauldron.png"
+  },
+  {
+    "id": "amberFossil",
+    "assetKey": "amber-fossil",
+    "labelKey": "creatures.objects.amberFossil",
+    "cost": 2250,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/amber-fossil.png"
+  },
+  {
+    "id": "honeyPot",
+    "assetKey": "honey-pot",
+    "labelKey": "creatures.objects.honeyPot",
+    "cost": 2250,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/honey-pot.png"
+  },
+  {
+    "id": "starChart",
+    "assetKey": "star-chart",
+    "labelKey": "creatures.objects.starChart",
+    "cost": 2250,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/star-chart.png"
+  },
+  {
+    "id": "spiral",
+    "assetKey": "spiral",
+    "labelKey": "creatures.objects.spiral",
+    "cost": 2250,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/spiral.png"
+  },
+  {
+    "id": "moon",
+    "assetKey": "moon",
+    "labelKey": "creatures.objects.moon",
+    "cost": 2250,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/moon.png"
+  },
+  {
+    "id": "crystal",
+    "assetKey": "crystal",
+    "labelKey": "creatures.objects.crystal",
+    "cost": 3000,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/crystal.png"
+  },
+  {
+    "id": "spearhead",
+    "assetKey": "spearhead",
+    "labelKey": "creatures.objects.spearhead",
+    "cost": 3000,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/spearhead.png"
+  },
+  {
+    "id": "megalith",
+    "assetKey": "megalith",
+    "labelKey": "creatures.objects.megalith",
+    "cost": 3750,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/megalith.png"
+  },
+  {
+    "id": "crown",
+    "assetKey": "crown",
+    "labelKey": "creatures.objects.crown",
+    "cost": 3750,
+    "category": "objects",
+    "imageUrl": "https://sitebytom.github.io/wordrunes-assets/assets/avatars/crown.png"
+  }
+]
